@@ -4,7 +4,7 @@
  <title>xml commerce</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2012-01-30T13:45:36-08:00</updated>
+ <updated>2012-01-30T14:36:57-08:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>Daniel Dosen</name>
@@ -17,7 +17,7 @@
    <link href="http://username.github.com/2012/01/30/removing-octopress"/>
    <updated>2012-01-30T12:58:00-08:00</updated>
    <id>hhttp://username.github.com/2012/01/30/removing-octopress</id>
-   <content type="html">&lt;p&gt;Welcome to the new website for XML Commerce, ,LLC!&lt;br /&gt;As you can see, we still love Jekyll, and have not opted for the simplicity of jekyll-bootstrap over the heavier weight octopress.&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Welcome to the new website for XML Commerce, LLC!&lt;br /&gt;As you can see, we still love Jekyll, and have not opted for the simplicity of jekyll-bootstrap over the heavier weight octopress.&lt;/p&gt;</content>
  </entry>
  
  
