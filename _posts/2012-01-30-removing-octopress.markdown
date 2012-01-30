@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "removing octopress"
+title: "updating website with bootstrap"
 date: 2012-01-30 12:58
 comments: true
 categories:
