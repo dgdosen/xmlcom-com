@@ -14,3 +14,5 @@ xmlcom.com website
 	url = git@heroku.com:xmlcom-com.git
 	fetch = +refs/heads/*:refs/remotes/heroku/*
 ```
+git://github.com/plusjade/jekyll-bootstrap.git
+
