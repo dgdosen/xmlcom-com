@@ -4,12 +4,21 @@
   <title>xml commerce</title>
   <link href="http://xmlcom.com/atom.xml" rel="self"/>
   <link href="http://xmlcom.com/"/>
-  <updated>2011-09-27T22:45:36-07:00</updated>
+  <updated>2012-01-30T13:05:05-08:00</updated>
   <id>http://xmlcom.com/</id>
   <author>
     <name>Daniel Dosen</name>
     
   </author>
 
+  
+  <entry>
+    <title>removing octopress</title>
+    <link href="http://xmlcom.com/blog/2012/01/30/removing-octopress/"/>
+    <updated>2012-01-30T12:58:00-08:00</updated>
+    <id>http://xmlcom.com/blog/2012/01/30/removing-octopress</id>
+    <content type="html">&lt;p&gt;Hello World.&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
